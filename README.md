@@ -31,7 +31,7 @@ Ensure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/chandanbag1999/todo-app-contextApi.git
+   git clone https://github.com/Chanchal010/TODO.git
    ```
 
 2. Navigate to the project directory:
@@ -92,13 +92,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Chandan Bag - [chandanbag1999](https://github.com/chandanbag1999)
+Chandan Bag - [Chanchal010](https://github.com/Chanchal010)
 
-Email - cbag67612@gmail.com
+Email - chanchalbag112@gmail.com
 
-LinkedIn - [www.linkedin.com/in/cbag-98](www.linkedin.com/in/cbag-98)
 
-Project Link: [https://github.com/chandanbag1999/todo-app-contextApi](https://github.com/chandanbag1999/todo-app-contextApi)
+Project Link: [https://github.com/Chanchal010/TODO](https://github.com/Chanchal010/TODO)
 
-Visite App - [Todo](https://chandanbag1999.github.io/todo-app-contextApi)
+Visite App - [Todo](https://todo-chanchal-bag-s-projects.vercel.app/)
 ```
